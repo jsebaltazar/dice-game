@@ -7,7 +7,7 @@
 **Technologies used**
 - <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">HTML5</a>
 - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> CSS3</a>
-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" Javascript</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> Javascript</a>
 
 
 Built for learning purposes only. Materials used belong to their respective copywrite owners 😁
