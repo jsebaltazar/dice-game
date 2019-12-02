@@ -1,14 +1,9 @@
 //Pseudo-random number generator 1-6
 function roll(){
-  n = Math.random();
-  n *=6 ;
+  return Math.floor(Math.random()*6) + 1;
+  }
 
-  n = Math.floor(n) + 1;
-  return n;
-}
-
-
-//change image for player 1
+//change image for player 
 var p1 = roll();
 var p2 = roll();
 document.querySelector("img.img1").src=`images/dice${p1}.png`;
