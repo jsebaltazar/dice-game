@@ -2,7 +2,7 @@
 
 # dice-game
 
->A simple dice game that uses html, css, and javascript
+>A simple dice game that uses html, css, and javascript. Click the screenshot to start and Press F5 to refresh the page and generate the dice!
 
 **Technologies used**
 - <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">HTML5</a>
